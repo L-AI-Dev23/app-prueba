@@ -1,0 +1,6 @@
+{
+  "name": "Gastos y Presupuestos",
+  "description": "Organizador de gastos y presupuestos con diseño minimalista estilo iOS, reportes detallados y sincronización en la nube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
